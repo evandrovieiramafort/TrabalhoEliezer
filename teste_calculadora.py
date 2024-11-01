@@ -1,5 +1,5 @@
 import unittest
-from calculadora import Calculadora
+from Calculadora import Calculadora
 
 class TestCalculadora(unittest.TestCase):
     def setUp(self):
